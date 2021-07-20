@@ -1,12 +1,5 @@
-#container {
-    max-width: 960px;
-}
 h2 {
     color: red;
-}
-#searchitem {
-    margin-top: 25%;
-    text-align: center;
 }
 
 a + a {
