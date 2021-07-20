@@ -12,8 +12,7 @@ a + a {
 }
 
 .centered {
-    height: 100vh;
-    overflow: auto;
+    height: 80vh;
     display: grid;
     place-items: center;
     text-align: center;
