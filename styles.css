@@ -5,6 +5,10 @@
 h2 {
     color: red;
 }
+#searchitem {
+    margin-top: 25%;
+    text-align: center;
+}
 
 a + a {
     margin-left: 20px;
@@ -13,15 +17,5 @@ a + a {
 .goback {
     text-align: right;
     margin-right: 30px;
-}
-
-.centered {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    position:fixed;
-    text-align: center;
 }
 
